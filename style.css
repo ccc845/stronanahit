@@ -1,0 +1,242 @@
+/*https://coolors.co/palette/edede9-d6ccc2-f5ebe0-e3d5ca-d5bdaf*/
+
+body {
+    background-color: #4ea8de;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.kontener {
+    margin: 0 auto;
+    max-width: 960px;
+    background-color: #A8DADC;
+    padding: 1rem;
+}
+
+.header {
+    background-color: #457B9D;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    justify-content: center;
+    border-radius: 1rem;
+}
+
+.header1 {
+    background-color: #457B9D;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    justify-content: space-around;
+    border-radius: 1rem;
+}
+
+.header1 img {
+    width: 200px;
+    height: auto;
+    border-radius: 1rem;
+}
+
+.nav {
+    background: #457B9D;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.nav li {
+    list-style: none;
+    background-color: #56cfe1;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav a:hover {
+    transform: translateY(-1rem);
+}
+
+#home {
+    background-color: hsl(210, 70%, 61%);
+}
+
+#program {
+    background-color: hsl(210, 70%, 61%);
+}
+
+#historia {
+    background-color: hsl(210, 70%, 61%);
+}
+
+#hasla {
+    background-color: hsl(210, 70%, 61%);
+}
+
+.nav li:hover {
+    background-color: hsl(210, 70%, 61%);
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    background: #457B9D;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.aside {
+    background-color: #56cfe1;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    margin-left: 1rem;
+}
+
+.sekcja1 {
+    background-color: #56cfe1;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    text-align: justify;
+}
+
+.sekcja2 {
+    background-color: #56cfe1;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    text-align: right;
+}
+
+.main2 {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background: #457B9D;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.sekcja3 span {
+    text-align: center;
+    font-size: larger;
+}
+
+.filmik {
+    background-color: #56cfe1;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: center;
+}
+
+.sekcja3 {
+    background-color: #56cfe1;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.main3 {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    background: #457B9D;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+
+.sekcja4 {
+    background-color: #56cfe1;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    margin-left: 1rem;
+    text-align: justify;
+}
+
+.sekcja4 h2 {
+    text-align: center;
+}
+
+.sekcja5 {
+    background-color: #56cfe1;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+    text-align: justify;
+}
+
+.sekcja5 h2 {
+    text-align: center;
+}
+
+.main4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    background: #457B9D;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+.sekcja6 {
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+
+.sekcja6 li {
+    text-align: left;
+}
+
+.footer {
+    background-color: #457B9D;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.footer1 {
+    font-weight: bold;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+    border-radius: 1rem;
+}
